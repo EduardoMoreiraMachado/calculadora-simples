@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+input{
+    width: 149px;
+}
+
+#resultado{
+    height: 100px;
+    width: 400px;
+    padding: 16px;
+    border: 2px solid black;
+}
